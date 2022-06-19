@@ -1,0 +1,33 @@
+textarea {
+	width: 500;
+	height: 200;
+	background-color: white;
+	color: #0000FF;
+}
+
+input {
+	font-family: Verdana, monospace, sans-serif;
+}
+
+.button {
+	width: 500;
+	height: 40;
+}
+
+b {
+	font-size: 20pt;
+	color: blue;
+}
+
+body {
+    font-family: Verdana, monospace, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: justify;
+    background-color: black;
+}
+
+table {
+	border-color: darkblue;
+	background-color: skyblue;
+}

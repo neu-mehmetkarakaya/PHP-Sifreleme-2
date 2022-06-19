@@ -1,4 +1,4 @@
-a. Şifreleme sezar tekniğinde olduğu gibi alfabeye dayanacak. Şifrelenecek mesaj (plaintext) içerisindeki sayılarda şifrelenecek.
+a. Şifreleme sezar tekniğinde olduğu gibi alfabeye dayanacak. Şifrelenecek mesaj (plain-text) içerisindeki sayılarda şifrelenecek.
 b. Şifre anahtarını bir sözcük ya da cümle ya da sayı+kelime vb. kombinasyonda olacak.
 c. Şifreleme İşlemi ise
   i. Algoritmik olarak: anahtar kelime veya cümle sürekli tekrar edecek (mesaj 
